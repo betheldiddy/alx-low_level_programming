@@ -448,12 +448,11 @@ char *_strcpy(char *dest, char *src)
 	dest[l] = '\0';
 	return (dest);
 }
-main.c/         0           0     0     644     127       `
-#include "main.h
+main.c/         0           0     0     644     128       `
+#include "main.h"
 
 int main(void)
 {
 _puts("\"At the end of the day, i want to be the best hacker\"\n\t- bethel");
 return (0);
 }
-
